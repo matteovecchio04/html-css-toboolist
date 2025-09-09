@@ -1,12 +1,11 @@
-body{
+body {
     margin: 0;
     background-color: lightgrey;
 }
 
-header{
+header {
     padding: 1rem;
     background-color: rgb(255, 255, 255);
-
 }
 
 .logo {
@@ -20,25 +19,32 @@ header{
     color: rgb(0, 0, 0);
 }
 
-main{
+main {
     background-color: white;
     width: 80%;
     margin: auto;
     margin-top: 2rem;
     border-radius: 5px;
-    padding-left: 3rem;
     padding-top: 0.5rem;
     text-align: left;
 }
 
-.index{
-    border-bottom: 1px solid rgb(0, 0, 0);
+.index {
+    padding-top: 1rem;
+    padding-left: 1.5rem;
 }
 
-.add-button{
+.add-button1 {
     color: white;
     background-color: #45abea;
     border-radius: 5px;
+    padding: 4px;
 }
 
-
+.add-button2 {
+    color: lightgrey;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 4px;
+}
