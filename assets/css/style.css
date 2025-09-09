@@ -31,9 +31,10 @@ main {
 }
 
 .index {
-    padding-top: 1rem;
-    padding-left: 1.5rem;
+    padding-top: 1.3rem;
+    padding-left: 3.5rem;
     padding-bottom: 1rem;
+    font-size: 1.1rem;
 }
 
 .add-button1 {
@@ -51,48 +52,60 @@ main {
     padding: 4px;
 }
 
-.editorial{
+.editorial {
     color: white;
     background-color: #45abea;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-.q1-goals{
+.q1-goals {
     color: white;
     background-color: #9c72e4;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-.recruiting{
+.recruiting {
     color: white;
     background-color: #64c0a9;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-.mobile{
+.mobile {
     color: white;
     background-color: #f29e33;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-.sales{
+.sales {
     color: white;
     background-color: #b0c926;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-.website{
+.website {
     color: white;
     background-color: #d863a1;
     border-radius: 5px;
     padding: 1.2px;
 }
 
-article{
+article {
     margin-bottom: 1.5rem
+}
+
+.green{
+    color: green;
+    border: 1px solid;
+    border-radius: 20rem;
+}
+
+.red{
+    color: red;
+    border: 1px solid;
+    border-radius: 20rem;
 }
